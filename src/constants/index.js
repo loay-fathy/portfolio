@@ -21,6 +21,7 @@ import {
   shoppy,
   magonga,
   tripguide,
+  dashboard,
   threejs,
 } from "../assets";
 
@@ -164,7 +165,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Loay proved me wrong.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
@@ -172,7 +173,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "I've never met a web developer who truly cares about their clients' success like Loay does.",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
@@ -180,7 +181,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Loay optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
@@ -208,7 +209,7 @@ const projects = [
       },
     ],
     image: shoppy,
-    source_code_link: "https://github.com/loay-fathy/shoppy",
+    source_code_link: "https://shoppy-dashboard.vercel.app",
   },
   {
     name: "Magonga",
@@ -234,7 +235,7 @@ const projects = [
   {
     name: "Cinerama",
     description:
-      "Designed and developed a comprehensive film rating website that allows users to discover, explore, and rate movies from various genres and eras. The website provides valuable information and user-generated reviews to help film enthusiasts make informed viewing choices.",
+      "Created a film rating website for users to explore, rate, and discover movies across genres and eras. The platform offers informative content and user reviews to assist film enthusiasts in making informed viewing decisions.",
     tags: [
       {
         name: "Angular",
@@ -247,6 +248,27 @@ const projects = [
     ],
     image: tripguide,
     source_code_link: "https://github.com/loay-fathy/Cinerama",
+  },
+  {
+    name: "Dashboard",
+    description:
+      "Created a dynamic React dashboard with Syncfusion, offering diverse charts and essential tools like a text editor and color picker. Ensured responsiveness and added features like dark mode for a personalized user experience.",
+    tags: [
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Syncfussion",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: dashboard,
+    source_code_link: "https://dashboard-rose-five-20.vercel.app",
   },
 ];
 

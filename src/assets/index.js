@@ -29,6 +29,7 @@ import none from "./company/1001283.png";
 import shoppy from "./shoppy.png";
 import magonga from "./magonga.png";
 import tripguide from "./tripguide.png";
+import dashboard from "./dashboard.png";
 
 export {
   logo,
@@ -59,4 +60,5 @@ export {
   shoppy,
   magonga,
   tripguide,
+  dashboard,
 };
