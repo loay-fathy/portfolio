@@ -22,43 +22,49 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import meta from "./company/1001283.png";
-import nasa from "./company/space_apps_003.webp";
-import msc from "./company/msc.jpg";
 import none from "./company/1001283.png";
+import shebaPlastic from "./company/sheba plastic.jpg";
+import msc from "./company/msc.jpg";
 
-import shoppy from "./shoppy.png";
+import shoppy from "./shoppy.jpg";
+import southcorner from "./southcorner.jpg";
 import magonga from "./magonga.png";
 import tripguide from "./tripguide.png";
-import dashboard from "./dashboard.png";
+import dashboard from "./dashboard.jpg";
+import workshop from "./workshop.jpg";
+import calendar from "./calendar.jpg";
 
 export {
-  logo,
-  backend,
-  creator,
-  mobile,
-  web,
-  github,
-  menu,
-  close,
-  css,
-  docker,
-  figma,
-  git,
-  html,
-  javascript,
-  angular,
-  nodejs,
-  reactjs,
-  redux,
-  tailwind,
-  typescript,
-  threejs,
-  meta,
-  nasa,
-  msc,
-  none,
-  shoppy,
-  magonga,
-  tripguide,
-  dashboard,
+    logo,
+    backend,
+    creator,
+    mobile,
+    web,
+    github,
+    menu,
+    close,
+    css,
+    docker,
+    figma,
+    git,
+    html,
+    javascript,
+    angular,
+    nodejs,
+    reactjs,
+    redux,
+    tailwind,
+    typescript,
+    threejs,
+    meta,
+    shebaPlastic,
+    msc,
+    none,
+    shoppy,
+    magonga,
+    tripguide,
+    dashboard,
+    southcorner,
+    workshop,
+    calendar
 };
