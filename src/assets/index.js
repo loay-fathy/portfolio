@@ -26,6 +26,11 @@ import none from "./company/1001283.png";
 import shebaPlastic from "./company/sheba plastic.jpg";
 import msc from "./company/msc.jpg";
 
+import ilm from "./ilm.jpg";
+import krok from "./krok.jpg";
+import hireagents from "./hireagents.jpg";
+import reborn from "./reborn.jpg";
+import barlamanmasr from "./barlamanmasr.jpg";
 import shoppy from "./shoppy.jpg";
 import southcorner from "./southcorner.jpg";
 import magonga from "./magonga.png";
@@ -35,36 +40,41 @@ import workshop from "./workshop.jpg";
 import calendar from "./calendar.jpg";
 
 export {
-    logo,
-    backend,
-    creator,
-    mobile,
-    web,
-    github,
-    menu,
-    close,
-    css,
-    docker,
-    figma,
-    git,
-    html,
-    javascript,
-    angular,
-    nodejs,
-    reactjs,
-    redux,
-    tailwind,
-    typescript,
-    threejs,
-    meta,
-    shebaPlastic,
-    msc,
-    none,
-    shoppy,
-    magonga,
-    tripguide,
-    dashboard,
-    southcorner,
-    workshop,
-    calendar
+  logo,
+  backend,
+  creator,
+  mobile,
+  web,
+  github,
+  menu,
+  close,
+  css,
+  docker,
+  figma,
+  git,
+  html,
+  javascript,
+  angular,
+  nodejs,
+  reactjs,
+  redux,
+  tailwind,
+  typescript,
+  threejs,
+  meta,
+  shebaPlastic,
+  msc,
+  none,
+  shoppy,
+  magonga,
+  tripguide,
+  dashboard,
+  southcorner,
+  workshop,
+  calendar,
+  reborn,
+  barlamanmasr,
+  krok,
+  hireagents,
+  ilm
 };
